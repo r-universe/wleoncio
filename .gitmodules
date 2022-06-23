@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "simExam"]
+	path = simExam
+	url = https://github.com/wleoncio/simexam
+	shallow = true
+	registered = true
