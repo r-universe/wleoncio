@@ -13,3 +13,8 @@
 	url = https://github.com/wleoncio/simexam
 	shallow = true
 	registered = true
+[submodule "SparseFunClust"]
+	path = SparseFunClust
+	url = https://github.com/cran/SparseFunClust
+	shallow = true
+	registered = true
