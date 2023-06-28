@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "nutrition"]
 	path = nutrition
 	url = https://github.com/cran/nutrition
-	shallow = true
-	registered = true
 [submodule "simExam"]
 	path = simExam
 	url = https://github.com/wleoncio/simexam
-	shallow = true
-	registered = true
 [submodule "SparseFunClust"]
 	path = SparseFunClust
 	url = https://github.com/cran/SparseFunClust
-	shallow = true
-	registered = true
