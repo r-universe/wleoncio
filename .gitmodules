@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SparseFunClust"]
+	path = SparseFunClust
+	url = https://github.com/cran/SparseFunClust
 [submodule "nutrition"]
 	path = nutrition
 	url = https://github.com/cran/nutrition
 [submodule "simExam"]
 	path = simExam
 	url = https://github.com/wleoncio/simexam
-[submodule "SparseFunClust"]
-	path = SparseFunClust
-	url = https://github.com/cran/SparseFunClust
