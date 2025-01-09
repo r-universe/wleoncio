@@ -5,6 +5,9 @@
 [submodule "EMJMCMC"]
 	path = EMJMCMC
 	url = https://github.com/cran/EMJMCMC
+[submodule "MADMMplasso"]
+	path = MADMMplasso
+	url = https://github.com/cran/MADMMplasso
 [submodule "SparseFunClust"]
 	path = SparseFunClust
 	url = https://github.com/cran/SparseFunClust
